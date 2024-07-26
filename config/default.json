@@ -1,0 +1,11 @@
+{
+    "database": {
+        "port": "",
+        "host": "",
+        "username": "",
+        "password": "",
+        "name": ""
+    },
+    "jwtPrivateKey": "",
+    "unn": ""
+}

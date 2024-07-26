@@ -1,0 +1,10 @@
+{
+    "database": {
+        "port": "blog_DBPort",
+        "host": "blog_DBHost",
+        "username": "blog_DBUsername",
+        "password": "blog_DBPassword",
+        "name": "blog_DBName"
+    },
+    "jwtPrivateKey": "jwtPrivateKey"
+}
